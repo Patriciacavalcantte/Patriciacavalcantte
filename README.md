@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, eu sou a Patrícia! 👋
+### Hi, i'm Patrícia! 👋
 
-<!--
-**Patriciacavalcantte/Patriciacavalcantte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Banco do Brasil S.A
+- 🌱 I’m currently learning Node.JS, Vue.JS, React.JS, Typescript and PHP. 
+- 😄 Pronouns: She/her him /his
+- ⚡ Fun fact: I love literature, I am a specialist in Brazilian literature and enthusiastic about Russian literature | I have 13 cats and more than 500 books in my home office. 
+
+<div>
+  <a href="http://patriciacavalcante.tech">
+    <img heigth "18em" src="https://github-readme-stats.vercel.app/api?username=Patriciacavalcantte&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
+     <img heigth "18em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patriciacavalcantte&layout=compact&langs&langs_count=16&thme=dracula"/>
+    </div>
+    
+
