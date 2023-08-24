@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on Banco do Brasil S.A
-- 🌱 I’m currently learning Node.JS, Vue.JS, React.JS, Typescript, PHP, C# and Java. 
+- 🌱 I’m currently learning Python
 - ⚡ Fun fact: I love literature, I am a specialist in Brazilian literature and enthusiastic about Russian literature | I have more than 500 books in my home office. 
 
 <div>
